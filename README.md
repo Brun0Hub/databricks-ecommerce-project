@@ -21,8 +21,8 @@ This project demonstrates an end-to-end analytics solution built on Databricks f
 
 - [x] Create Unity Catalog
 - [x] Create Medallion schemas
-- [ ] Create volumes
-- [ ] Load raw datasets
+- [x] Create volumes
+- [x] Load raw datasets
 - [ ] Build Bronze tables
 - [ ] Build Silver transformations
 - [ ] Build Gold metrics
