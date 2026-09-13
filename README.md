@@ -23,7 +23,7 @@ This project demonstrates an end-to-end analytics solution built on Databricks f
 - [x] Create Medallion schemas
 - [x] Create volumes
 - [x] Load raw datasets
-- [ ] Build Bronze tables
+- [x] Build Bronze tables
 - [ ] Build Silver transformations
 - [ ] Build Gold metrics
 - [ ] Create Power BI dashboard
